@@ -18,7 +18,7 @@
     "support": {
         "issues": "https://github.com/socialiteproviders/providers/issues",
         "source": "https://github.com/socialiteproviders/providers",
-        "docs": "https://socialiteproviders.com/authentik"
+        "docs": "https://socialiteproviders.com/Authelia"
     },
     "require": {
         "php": "^8.2",
